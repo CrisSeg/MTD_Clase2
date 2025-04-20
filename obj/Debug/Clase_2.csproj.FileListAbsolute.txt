@@ -1,0 +1,6 @@
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\Clase_2\bin\Debug\Clase_2.exe.config
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\Clase_2\bin\Debug\Clase_2.exe
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\Clase_2\bin\Debug\Clase_2.pdb
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\Clase_2\obj\Debug\Clase_2.csprojResolveAssemblyReference.cache
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\Clase_2\obj\Debug\Clase_2.exe
+C:\Users\nico_\OneDrive\Documentos\SharpDevelop Projects\Clase_2\obj\Debug\Clase_2.pdb
